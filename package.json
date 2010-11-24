@@ -1,0 +1,9 @@
+{
+  "name": "node-chrome-host",
+  "description": "Use the Chrome Extension API through a Node web service.",
+  "version": "0.1.0",
+  "main": "./lib/index",
+  "mappings": {
+    "ws": "https://github.com/miksago/node-websocket-server/zipball/v1.4.01"
+  }
+}

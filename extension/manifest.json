@@ -1,0 +1,7 @@
+{
+  "name": "Chrome Cap",
+  "version": "0.1.0",
+  "description": "Capture browser screenshots using Chrome and Node.",
+  "background_page": "background.html",
+  "permissions": ["tabs"]
+}
